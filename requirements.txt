@@ -1,23 +1,17 @@
-weaviate-client==3.23.1
-python-dotenv==1.0.0
-openai==0.27.9
-black==23.7.0
-wasabi==1.1.2
-fastapi==0.102.0
-uvicorn[standard]
-click== 8.1.7
-pytest
-setuptools
-wheel
-twine
-spacy==3.6.1
-tiktoken==0.5.1
-sentence-transformer
-transformers
-torch
-huggingface_hub
-asyncio
-accelerate
-cohere==4.33
-requests
-pypdf2
+Cześć, 
+
+przeczytałem dzisiaj tutoriala IT z dni kariery i tam napisałeś ciekawy artykuł o zdrowiu i work-life balace. 
+
+Znalazłem Twoją stronę, też ciekawy prosty format. Taki powrót do normalności. W sumie to już nie pamiętam jak to jest prosto żyć, bo komercja popycha nas do coraz to większym stawaniu na głowie. 
+
+Widać, że wiesz co robisz i nie boisz się niestandardowych rozwiązań. 
+
+Poczytałem troche Twoją stronę i zobaczyłem, że miałeś przygodę z Bitcoinem w 2016 roku. Fajna cena była :) ciekaw jestem jak sie rozwinęła Ta Twoja przygoda, bo ja własnie od dwóch lat intesywnie pracuje nad programem automatyzującym handel na giełdach krypto - z własnoręcznie opracowaną strategią.
+
+Pisałeś też, że możesz coś podpowiedzieć w związku z karierą i chętnie bym posłuchał, co mógłbyś mi podpowiedzieć, bo planuje wrócić do gry jako Javoviec.
+
+napisałem tutaj, bo wiadomości na LinkedInie są płatne, a ani na stronie, ani na Githubie nie mogłem znaleźć do Ciebie kontaktu ;)
+
+Jak możesz mi coś podpowiedzieć, to kontakt do mnie to: marek.glowacki@pm.me
+
+pozdrawiam.
